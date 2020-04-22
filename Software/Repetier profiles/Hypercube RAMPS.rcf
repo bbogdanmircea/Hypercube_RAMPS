@@ -1,0 +1,10 @@
+[filament]
+name = Hypercube RAMPS
+diameter = 1.75
+multiplierPercent = 93
+printingTemperature = 210
+enableCooling = True
+bedTemperature = 0
+fanSpeedMin = 30
+fanSpeedMax = 100
+minimalLayerTime = 5

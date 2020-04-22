@@ -1,0 +1,10 @@
+[filament]
+name = Hypercube wEndstops 215 pink
+diameter = 1.75
+multiplierPercent = 100
+printingTemperature = 215
+enableCooling = True
+bedTemperature = 0
+fanSpeedMin = 40
+fanSpeedMax = 100
+minimalLayerTime = 5
