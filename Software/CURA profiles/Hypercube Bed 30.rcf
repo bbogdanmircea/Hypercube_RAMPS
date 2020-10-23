@@ -1,0 +1,10 @@
+[filament]
+name = Hypercube Bed 30
+diameter = 1.75
+multiplierPercent = 100
+printingTemperature = 210
+enableCooling = True
+bedTemperature = 30
+fanSpeedMin = 50
+fanSpeedMax = 70
+minimalLayerTime = 5
